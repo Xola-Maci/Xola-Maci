@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently Studying **CodeSpace Academy**
 
-- 🌱 I’m currently learning **Dynamic web-apps**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **xolaamyoli@gmail.com**
 
