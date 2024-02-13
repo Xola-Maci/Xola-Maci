@@ -5,7 +5,6 @@
 
 
 - 🔭 I’m currently reading and learning more about Software Development
-  and the Tech Industry.
 
 - 🌱 I’m currently learning **How to build a personal portfolio from scratch**
 
